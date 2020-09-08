@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 
 /*
 General things to I would add/consider for this implementation:
+    - Change back arrow graphic
     - integrating into existing navigation, for now just using single activity
     - Localization and different configurations (XHDPI, Landscape, Tablet etc)
     - Tie into Settings for Metric vs Imperial units, depending on Existing Architecture

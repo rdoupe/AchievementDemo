@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Achievements</string>
     <string name="completed">%1$d of %2$d</string>
     <string name="action_settings">Settings</string>
 </resources>
